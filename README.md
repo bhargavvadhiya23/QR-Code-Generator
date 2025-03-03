@@ -72,7 +72,7 @@ This project is open-source and available under the **MIT License**.
 
 ## ✨ Let's Connect!
 
-🔗 [Connect me in LinkedIn](https://www.linkedin.com/in/bhargavvadhiya23/) 🐙 [Follow  me on Instagram](https://www.instagram.com/bhargavvadhiya23/)
+🔗 [LinkedIn](https://www.linkedin.com/in/bhargavvadhiya23/) 🐙 [Instagram](https://www.instagram.com/bhargavvadhiya23/)
 
 ---
 
