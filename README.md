@@ -54,7 +54,8 @@ python qr_generator.py
 
 ## 📷 Screenshots
 
-
+<img width="1025" alt="Image" src="https://github.com/user-attachments/assets/25095e79-b67a-47b7-b55a-0b0de53c8e92" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/218dd2d5-1e11-461f-b8ea-276f63f1fa4c" />
 
 ---
 
@@ -66,7 +67,7 @@ Feel free to fork this repository and contribute. Pull requests are welcome!
 
 ## 📜 License
 
-This project is open-source and available under the **MIT License**.
+This project is open-source and available for all
 
 ---
 
